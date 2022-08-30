@@ -18,3 +18,12 @@ Part 1 and Part 2:
 
 Part 3 and Part 4:
     > python p3p4.py
+
+
+---
+Due to the fact that I have not successfully implemented the code of part 4, so 65 is my final marks where -30 for part 4, and -5 for other parts that the report is not deeper enough. I believe the code for 1~ 3 parts should be perfect.
+
+`For the future work, hopefully I can find the time and remember to fix part 4: Genetic Programming Hyper Heurstic.`
+
+![](/attachments/readme/readme_2022-08-31-01-29-02.png)
+
