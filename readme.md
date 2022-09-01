@@ -1,4 +1,22 @@
-I am using the python for this assignment, so program.zip and source.zip are actually the same.
+# introduction
+
+This project involves 4 different types of techniques to solve the CO problem, which is the cloud resource allocation problem, and the Travelling salesman problem. Four parts corresponds to 4 techniques, which are:
+1. Mathematical programming,
+2. Greedy Heuristics,
+3. Genetic Algorithm, and 
+4. Genetic Programming Hyper-Heuristics(aka GPHH).
+
+---
+Due to the fact that I have not successfully implemented the code of part 4: GPHH , so 65 is my final marks where -30 for part 4, and -5 for other parts that the report is not deeper enough. I believe the code implementation for part 1~3 should be no problem.
+
+`For the future work, hopefully I can find the time and remember to fix part 4: Genetic Programming Hyper Heurstic.`
+
+![](/attachments/readme/readme_2022-08-31-01-29-02.png)
+
+
+# How to run / read the project
+
+I am using the python for this project, so program.zip and source.zip are actually the same.
 
 I use jupyter notebook for all parts, so you can clearly observe the results by opening the jupyter notebook. 
 For part 1 and part 2, the p1p2.ipynb can be found under the p1p2 directory, 
@@ -20,10 +38,4 @@ Part 3 and Part 4:
     > python p3p4.py
 
 
----
-Due to the fact that I have not successfully implemented the code of part 4, so 65 is my final marks where -30 for part 4, and -5 for other parts that the report is not deeper enough. I believe the code for 1~ 3 parts should be perfect.
-
-`For the future work, hopefully I can find the time and remember to fix part 4: Genetic Programming Hyper Heurstic.`
-
-![](/attachments/readme/readme_2022-08-31-01-29-02.png)
 
